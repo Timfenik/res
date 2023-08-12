@@ -3,4 +3,4 @@
 ## Резюме можете посмотреть тут
 
 
-[Моё резюме по курсу]((https://timfenik.github.io/res/))
+[Моё резюме по курсу](https://timfenik.github.io/res/)
